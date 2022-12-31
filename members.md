@@ -50,4 +50,4 @@ Many thanks to Art for looking into this for us and the writing the article [How
 
 </div>
 
-[article]: _PDF_/How%20to%20identify%20Seabreeze%20Hull%20Numbers.pdf
+[article]: {{site.docs}}/How%20to%20identify%20Seabreeze%20Hull%20Numbers.pdf

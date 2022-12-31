@@ -16,10 +16,15 @@ $(document).ready(function() {
         }
     });
 
-    if( siteConfig.pdfDir ) {
-        $('a[href^="_PDF_/"]').each(function() {
+    /* You can prefix a hyperlink with _DOCS_ to refer to the document directory.
+       The code below replaces the macro with a variable from the site configuration.
+       The JS approach is deprecated in favor of generating actual links when the site is built,
+       but it's here for reference.
+    */
+    if( siteConfig.docs ) {
+        $('a[href^="_DOCS_"]').each(function() {
             var url = $(this).attr('href');
-            $(this).attr('href', siteConfig.pdfDir + url.substr(6));
+            $(this).attr('href', siteConfig.docs + url.substr(6));
         });
     }
 });

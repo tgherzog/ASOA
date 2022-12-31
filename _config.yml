@@ -1,7 +1,9 @@
 # Site settings
 title: Allied Seabreeze Owners Association
 email: seabreezeowners@gmail.com
-pdfDir: "http://alliedseabreeze35.org/files/Download/"
+
+# no trailing "/" on the next variable
+docs: "http://alliedseabreeze35.org/files/Download"
 sass:
   sass_dir: css
   # style: compressed

@@ -24,7 +24,7 @@ menu: Library
 
 #### General Interest ####
 
-* [Allied Boat's "Seabreeze" by MacLear & Harris](_PDF_/Seabreeze Yachting Article.pdf) (Yachting)
+* [Allied Boat's "Seabreeze" by MacLear & Harris](_PDF_/Seabreeze Yachting Article.pdf) (*Yachting*)
 * [The Diverse Fleet of Classic Allieds](_PDF_/Diverse Fleet of Classic Allieds CW Dec 97.pdf) (*Cruising World*, Tom Zydler, Dec 1997)
 * [Allied Boat Company](_PDF_/AllliedBt_JF_99.pdf) (*Good Old Boat*, Dan Smith, Jan 1999)
 * [Allied Factory Tour](_PDF_/Factory Tour.pdf) (*Yachts & Yachting*, Trevor Kirby, Oct 1966)
@@ -127,33 +127,4 @@ menu: Library
 * [McMaster-Carr](https://www.mcmaster.com/monel-wire-rope/): source for Monel centerboard cable
 * [Grainger](https://www.grainger.com/product/GRAINGER-APPROVED-Buna-N-Square-Cord-Std-38G852?s_pp=false&picUrl=%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F38G832_AS01%3F%24smthumb%24wire-rope%2F%3Dwupr9n&isShellOptimized=true): source for 5/16" square Buna N Porthole gasket
 * [Lackey Sailing](https://lackeysailing.com/archived/ashantee/ashantee.html): Seabreeze restoration
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

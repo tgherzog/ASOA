@@ -5,9 +5,18 @@ menu: Members
 
 # Members Area #
 
+## Contents ##
+
+* [ASOA Database](#asoa-database)
+* [ASOA Burgee](#asoa-burgee)
+* [Seabreeze Hull # Replacement Plaques](#hull-plaques)
+* [Maine Rendezvous 2015](http://alliedseabreeze.zognet.net/Events.html)
+
+----
+
 ### ASOA Database ###
 
-The ASOA makes a good faith effort to provide an up-to-date list of Seabreeze
+The ASOA makes a good faith effort to maintain an up-to-date list of Seabreeze
 sailboats, their owners, locations, and current status. Access is available to
 ASOA members only. Contact <{{ site.email }}> to gain access or provide updates/corrections.
 
@@ -26,7 +35,7 @@ send an email to <{{ site.email }}>.
 
 ![Seabreeze Replacement Plaque](assets/images/plaque.jpg "Art Hall's Plaque - Hull #36 <em>Secret Water</em>"){: .float.small :}
 
-### Seabreeze Hull # Replacement Plaques ###
+### Seabreeze Hull # Replacement Plaques ### {#hull-plaques}
 
 Although we believe each Seabreeze came with a builder's plaque that has your hull number engraved on it, many of these plaques have been lost over the years. The plaque was not permanently affixed and on some boats are missing. If you are not sure of your hull number, there is a reliable way to look for your lost number. As the components came down the assembly line, most had their hull number penciled on the raw plywood, like the varnished draw bottoms, door edges and other varnished surfaces may reveal your hull number.
 
@@ -41,4 +50,4 @@ Many thanks to Art for looking into this for us and the writing the article [How
 
 </div>
 
-[article]: http://alliedseabreeze35.org/files/Download/How%20to%20identify%20Seabreeze%20Hull%20Numbers.pdf
+[article]: _PDF_/How%20to%20identify%20Seabreeze%20Hull%20Numbers.pdf

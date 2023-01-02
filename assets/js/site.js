@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
 
-    $('img[src^="assets/images/"]').each(function() {
+    $('.container img[src^="assets/images/"]').each(function() {
         // give images a wrapper to facilitate captions and formatting
         $(this).wrap($('<div/>').addClass('image-wrapper'));
         var wrapper = $(this).parent();
@@ -22,7 +22,7 @@ $(document).ready(function() {
        but it's here for reference.
     */
     if( siteConfig.docs ) {
-        $('a[href^="_DOCS_"]').each(function() {
+        $('.container a[href^="_DOCS_"]').each(function() {
             var url = $(this).attr('href');
             $(this).attr('href', siteConfig.docs + url.substr(6));
         });

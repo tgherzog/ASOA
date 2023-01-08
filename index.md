@@ -15,7 +15,7 @@ Seabreeze 35 to share information, learn more about their boats, and
 meet other owners.
 
 This site was recently relaunched to provide updated content and a modern,
-mobile-friendly user experience. The [previous site is available here](http://alliedseabreeze.zognet.net).
+mobile-friendly user experience. The [previous site is available here](http://archive.alliedseabreeze35.org).
 
 ## ASOA On Facebook ##
 

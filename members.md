@@ -10,7 +10,7 @@ menu: Members
 * [ASOA Database](#asoa-database)
 * [ASOA Burgee](#asoa-burgee)
 * [Seabreeze Hull # Replacement Plaques](#hull-plaques)
-* [Maine Rendezvous 2015](http://alliedseabreeze.zognet.net/Events.html)
+* [Maine Rendezvous 2015](http://archive.alliedseabreeze35.org/Events.html)
 
 ----
 

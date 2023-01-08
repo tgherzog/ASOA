@@ -3,7 +3,7 @@ title: Allied Seabreeze Owners Association
 email: seabreezeowners@gmail.com
 
 # no trailing "/" on the next variable
-docs: "http://alliedseabreeze35.org/files/Download"
+docs: "/downloads"
 sass:
   sass_dir: css
   # style: compressed

@@ -26,6 +26,13 @@ is the primary forum for Seabreeze lovers to talk online and share information a
 
 To contact the ASOA, email <{{ site.email }}> or join the [Facebook group][fb].
 
+**Attention Seabreeze Owners!** If you are the proud owner of a Seabreeze
+in any condition and have not joined the ASOA, please reach out via
+the links above. The ASOA makes a valiant effort to track the condition,
+location, and ownership of each of these fine boats, but we can't do it without
+your help.
+{: .attn .border .border-info .bg-info .bg-opacity-10 .rounded-start .rounded-end :}
+
 ## About the Seabreeze 35 ##
 
 ![Secret Water](assets/images/secret-water.jpg

@@ -32,6 +32,15 @@ h1 {
   text-align: center;
 }
 
+p.attn {
+  margin: 1.5em;
+  padding: 1em;
+
+  strong {
+    color: $alt_color;
+  }
+}
+
 .container {
   .byline {
     margin-left: 1.5em;

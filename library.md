@@ -12,7 +12,6 @@ menu: Library
 * [Sales & Flags](#sails-flags)
 * [Old Brochures, Price Lists & Bills of Sale](#brochures)
 * [Magazine Ads](#magazine-ads)
-* [Blogs](#blogs)
 * [Useful Links & Sources](#sources)
 * [ASOA Newsletter Archive](newsletters.html)
 
@@ -35,6 +34,10 @@ menu: Library
 * [I'm in Love With a Seabreeze](http://www.headoverkeel.com/#!HEAD-OVER-CENTERBOARD/cmbz/66FD945F-6419-4237-91B4-8F8F97FA8191) (broken link, Helena Peterson)
 * [How to identify Seabreeze Hull Numbers]({{site.docs}}/How to identify Seabreeze Hull Numbers.pdf) (Art Hall)
 * [Secret Water's Second Life]({{site.docs}}/SecretWater_SO_00.pdf) (*Good Old Boat*, Karen Larson, Sept 2000)
+
+#### Blogs ####
+
+* [Potomac Boatcraft](https://potomacboatcraft.com/projects.html#seabreeze): Tim Herzog's blog chronicling the renovation of hull #62, *Miss Daisy*
 
 
 #### Centerboard ####
@@ -114,11 +117,6 @@ menu: Library
 * [Sell Your Wife Ad]({{site.docs}}/Ad Feb 69.pdf)
 * [Yachting Magazine Ad]({{site.docs}}/Ad Yachting 1971.pdf)
 * [Sailing Way of Life Ad]({{site.docs}}/Ad Sailing Way of Life.jpg)
-
-### Blogs ###
-
-* [Refit project by Steve Pawlowskis, #25, Rochdale, MA](http://seabreezeproject.blogspot.com/)
-* [Refit project by James Anderson, #9, Portsmouth, VA](https://thealliedseabreezeproject.wordpress.com/)
 
 ### Useful Links & Sources ### {#links}
 

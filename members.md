@@ -18,7 +18,9 @@ menu: Members
 
 The ASOA makes a good faith effort to maintain an up-to-date list of Seabreeze
 sailboats, their owners, locations, and current status. Access is available to
-ASOA members only. Contact <{{ site.email }}> to gain access or provide updates/corrections.
+ASOA members only. Contact <{{ site.email }}> to gain access or use our
+<a target=_blank href="{{site.db_update_form}}">use our online form</a>
+to provide updates or corrections.
 
 <div class="clearfix" markdown="1">
 

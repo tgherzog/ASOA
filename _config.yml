@@ -1,6 +1,7 @@
 # Site settings
 title: Allied Seabreeze Owners Association
 email: seabreezeowners@gmail.com
+db_update_form: https://forms.gle/usB89vY9sc5U6adG8
 
 # no trailing "/" on the next variable
 docs: "/downloads"

@@ -30,7 +30,9 @@ To contact the ASOA, email <{{ site.email }}> or join the [Facebook group][fb].
 in any condition and have not joined the ASOA, please reach out via
 the links above. The ASOA makes a valiant effort to track the condition,
 location, and ownership of each of these fine boats, but we can't do it without
-your help.
+your help. You can
+<a target=_blank href="{{site.db_update_form}}">use our online form</a>
+to submit updated information about boats and ownership.
 {: .attn .border .border-info .bg-info .bg-opacity-10 .rounded-start .rounded-end :}
 
 ## About the Seabreeze 35 ##

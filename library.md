@@ -110,6 +110,7 @@ menu: Library
 * [Seabreeze Pricelist 1/15/68]({{site.docs}}/Seabreeze Price List 1.15.68.pdf)
 * [Seabreeze Citation Pricelist 2/15/71]({{site.docs}}/Seabreeze Price List Citation 2.15.71.pdf)
 * [Allied Bill of Sale, Hull #71]({{site.docs}}/Allied Bill of Sale _ QA check off hull 71.pdf)
+* [Materials List, Hull #67]({{site.docs}}/materials-list-hull67.pdf)
 
 ### Magazine Ads ###
 

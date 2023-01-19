@@ -30,9 +30,9 @@ To contact the ASOA, email <{{ site.email }}> or join the [Facebook group][fb].
 in any condition and have not joined the ASOA, please reach out via
 the links above. The ASOA makes a valiant effort to track the condition,
 location, and ownership of each of these fine boats, but we can't do it without
-your help. You can
+your help. You can access the [online database here]({{site.db_url}}) or
 <a target=_blank href="{{site.db_update_form}}">use our online form</a>
-to submit updated information about boats and ownership.
+to provide updated information about boats and ownership.
 {: .attn .border .border-info .bg-info .bg-opacity-10 .rounded-start .rounded-end :}
 
 ## About the Seabreeze 35 ##
@@ -44,7 +44,7 @@ The [Allied Seabreeze](https://sailboatdata.com/sailboat/seabreeze-35-allied)
 was designed by [MacLear & Harris](https://sailboatdata.com/designer/maclear-harris)
 in 1962. A total of 135
 of these magnificant boats were built between 1963 and 1972. Of these, we know
-of only two boats that no longer exist. One is known to have been destroyed on
+of only five boats that no longer exist. One is known to have been destroyed on
 a reef in the South Pacific and the other was scraped after surviving a fire
 and was considered to be too much of a project to restore. The remainder of
 these boats, many belonging to members of the Association, are actively sailed

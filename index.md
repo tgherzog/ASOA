@@ -37,8 +37,7 @@ to provide updated information about boats and ownership.
 
 ## About the Seabreeze 35 ##
 
-![Secret Water](assets/images/secret-water.jpg
-"ASOA President Art Hall sailing Secret Water, Hull #36. Photo credit: Charlie Williams (deceased), former owner #65"){: .float :}
+![Breezy](assets/images/breezy.jpg "Breezy (#39). Credit: Debbie Cycote"){: .float :}
 
 The [Allied Seabreeze](https://sailboatdata.com/sailboat/seabreeze-35-allied)
 was designed by [MacLear & Harris](https://sailboatdata.com/designer/maclear-harris)

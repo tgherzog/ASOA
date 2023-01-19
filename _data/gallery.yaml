@@ -131,3 +131,15 @@
     hull: 98
     name: Wren
     attr: Sam Leuschner
+-
+    img: s3://123-sea-eagle.jpeg
+    hull: 123
+    name: Sea Eagle
+    desc: with First Mate Jack astride the boom
+    attr: Paul Bergen
+    style: translucent
+-
+    img: s3://42-snow-goose.jpeg
+    hull: 42
+    name: Snow Goose
+    attr: Mark and Therese Smith

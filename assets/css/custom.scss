@@ -147,6 +147,10 @@ p.attn {
       font-style: italic;
     }
 
+    .desc {
+      display: none;
+    }
+
     &.caption-translucent {
       background: $alt_color_lite;
       color: black;
@@ -159,18 +163,21 @@ p.attn {
   }
 }
 
-@media (min-width: $br_sm) and (min-height: 410px) {
+
+@media (min-width: $br_sm) and (min-height: 390px) {
+/* the height minimum for this one matches the iPhone 12 Pro and 13 */
   #carousel {
-    width: 516px;
-    height: 387px;
+    width: 513px;
+    height: 385px;
     img {
-      max-width: 516px;
-      max-height: 387px;
+      max-width: 513px;
+      max-height: 385px;
     }
 
     .carousel-caption {
         h5 { font-size: 1.1em }
         p { font-size: 0.85em; }
+        .desc { display: block; }
     }
   }
 }

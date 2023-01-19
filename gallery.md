@@ -29,7 +29,7 @@ Have your own pictures to share? Contact <{{site.email}}>.
       <div class="carousel-caption{% for i in styles %}{{ i | prepend: ' caption-' }}{% endfor %}">
       <h5>{{ slide.name }} (#{{ slide.hull }})</h5>
 {% if slide.desc -%}
-      <p class="d-none d-sm-block desc">{{ slide.desc }}</p>
+      <p class="desc">{{ slide.desc }}</p>
 {% endif -%}
 {% if slide.attr -%}
       <p class="attr">Credit: {{ slide.attr }}</p>

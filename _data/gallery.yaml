@@ -143,3 +143,9 @@
     hull: 42
     name: Snow Goose
     attr: Mark and Therese Smith
+-
+    img: s3://99-sora2.jpeg
+    hull: 99
+    name: Sora
+    desc: Turners Creek, Sassafras River, MD
+    attr: Andrew Slavinskas

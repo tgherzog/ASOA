@@ -1,0 +1,133 @@
+# img: path to photo. Can use prefixes defined in _config.yml for greater efficiency
+# hull: hull number
+# name: boat name
+# desc: optional photo description; hidden at small browser sizes
+# attr: photo attribution (often but not always the owner)
+# style: "translucent" or "opaque" - changes title background for visibility
+# skip:  omit this photo
+-
+    img: s3://36-secret-water.jpeg
+    hull: 36
+    name: Secret Water
+    attr: Art Hall
+    skip: true
+-
+    img: s3://36-secret-water2.jpeg
+    hull: 36
+    name: Secret Water
+    attr: Art Hall
+    skip: true
+-
+    img: s3://36-secret-water3.jpeg
+    hull: 36
+    name: Secret Water
+    attr: Art Hall
+    skip: true
+-
+    img: s3://36-secret-water4.jpeg
+    hull: 36
+    name: Secret Water
+    attr: Art Hall
+-
+    img: s3://36-secret-water5.jpeg
+    hull: 36
+    name: Secret Water
+    attr: Art Hall
+    skip: true
+-
+    img: s3://39-breezy.jpeg
+    hull: 39
+    name: Breezy
+    attr: Debbie Cycotte
+-
+    img: s3://46-perelandra.jpeg
+    hull: 46
+    name: Perelandra
+    attr: Mark Prestero
+    style: translucent
+-
+    img: s3://64-sarah.jpeg
+    hull: 64
+    name: Sarah
+    attr: Art Hall
+-
+    img: s3://47-whim.jpeg
+    hull: 47
+    name: Whim
+    attr: Austin Taylor
+    skip: true
+-
+    img: s3://47-whim2.jpeg
+    hull: 47
+    name: Whim
+    attr: Austin Taylor
+    style: translucent
+-
+    img: s3://51-dagny.jpeg
+    hull: 51
+    name: Dagny
+    attr: Elisabeth Gill Larson
+    skip: true
+-
+    img: s3://51-dagny2.jpeg
+    hull: 51
+    name: Dagny
+    attr: Elisabeth Gill Larson
+    skip: true
+-
+    img: s3://51-north-star.jpeg
+    hull: 51
+    name: North Star
+    attr: Ben Barker
+    skip: true
+-
+    img: s3://51-north-star2.jpeg
+    hull: 51
+    name: North Star
+    attr: Ben Barker
+-
+    img: s3://37-shenandoah.jpeg
+    hull: 37
+    name: Shenandoah
+    attr: Bob Cronin
+    style: translucent
+-
+    img: s3://108-cloud-song.jpeg
+    hull: 108
+    name: Cloud Song
+    attr: Caelie Smith
+    style: translucent
+-
+    img: s3://28-southerly.jpeg
+    hull: 28
+    name: Southerly
+    attr: Leslie Kayan
+    style: translucent
+-
+    img: s3://103-kris-e.jpeg
+    hull: 103
+    name: Kris E
+    attr: Mary Jablonski
+    style: translucent
+-
+    img: s3://112-altair.jpeg
+    hull: 112
+    name: Altair
+    attr: Patrick McDonald
+-
+    img: s3://81-prudence.jpeg
+    hull: 81
+    name: Prudence
+    attr: Scott Ranney
+-
+    img: s3://36-secret-water-with-shenandoah.jpeg
+    hull: 37
+    name: Shenandoah
+    desc: With Secret Water (#36) off her bow
+    attr: Art Hall
+    style: translucent
+-
+    img: s3://98-wren.jpeg
+    hull: 98
+    name: Wren
+    attr: Sam Leuschner

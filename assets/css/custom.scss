@@ -5,6 +5,12 @@ $img_width: 600px;
 $alt_color: rgb(64, 128, 128);
 $alt_color_lite: rgba(64, 128, 128, 0.4);
 
+$br_sm: 576px;
+$br_md: 768px;
+$br_lg: 992px;
+$br_xl: 1200px;
+$br_xxl: 1400px;
+
 nav {
   background: $alt_color_lite;
 
@@ -97,10 +103,121 @@ p.attn {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: $br_md) {
   .container {
     div.image-wrapper.float {
       max-width: 200px;
     }
   }
 }
+
+#carousel {
+  margin: 1em auto;
+  width: 320px;
+  height: 240px;
+  background: $alt_color;
+
+  img {
+    max-width: 320px;
+    max-height: 240px;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
+
+  .carousel-caption {
+    right: auto;
+    left: 5%;
+    text-align: left;
+    top: 3%;
+    bottom: auto;
+    padding: 0.25em 0.5em;
+
+    h5 {
+      margin-bottom: 0.25em;
+      font-size: 0.9em;
+    }
+    p {
+      margin: 1px;
+      line-height: 1.1em;
+      font-size: 0.7em;
+    }
+
+    .attr {
+      font-style: italic;
+    }
+
+    &.caption-translucent {
+      background: $alt_color_lite;
+      color: black;
+    }
+    &.caption-opaque {
+      background: $alt_color;
+    }
+    &.caption-dark { color: black; }
+    &.caption-bright { color: orange }
+  }
+}
+
+@media (min-width: $br_sm) and (min-height: 410px) {
+  #carousel {
+    width: 516px;
+    height: 387px;
+    img {
+      max-width: 516px;
+      max-height: 387px;
+    }
+
+    .carousel-caption {
+        h5 { font-size: 1.1em }
+        p { font-size: 0.85em; }
+    }
+  }
+}
+
+@media (min-width: $br_md) and (min-height: 550px) {
+  #carousel {
+    width: 696px;
+    height: 522px;
+    img {
+      max-width: 696px;
+      max-height: 522px;
+    }
+  }
+}
+
+@media (min-width: $br_lg) and (min-height: 730px) {
+  #carousel {
+    width: 936px;
+    height: 702px;
+    img {
+      max-width: 936px;
+      max-height: 702px;
+    }
+  }
+}
+
+
+@media (min-width: $br_xl) and (min-height: 860px) {
+  #carousel {
+    width: 1116px;
+    height: 837px;
+    img {
+      max-width: 1116px;
+      max-height: 837px;
+    }
+  }
+}
+
+/*
+@media (min-width: $br_xxl) and (min-height: 1000px) {
+  #carousel {
+    width: 1296px;
+    height: 972px;
+    img {
+      max-width: 1296px;
+      max-height: 972px;
+    }
+  }
+}
+*/

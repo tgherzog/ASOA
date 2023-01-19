@@ -2,6 +2,10 @@
 title: Allied Seabreeze Owners Association
 email: seabreezeowners@gmail.com
 db_update_form: https://forms.gle/usB89vY9sc5U6adG8
+db_url: //asoadb.alliedseabreeze35.org
+
+gallery_src:
+  s3: "https://asoa-files.s3.amazonaws.com/gallery-photos/"
 
 # no trailing "/" on the next variable
 docs: "/downloads"
@@ -21,6 +25,7 @@ exclude:
 menu:
 - ["Home", "/"]
 - ["History", "/history.html"]
+- ["Gallery", "/gallery.html"]
 - ["Library", "/library.html"]
 - ["Members", "/members.html"]
 

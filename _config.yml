@@ -1,8 +1,14 @@
 # Site settings
+url:   "https://alliedseabreeze35.org"
 title: Allied Seabreeze Owners Association
 email: seabreezeowners@gmail.com
 db_update_form: https://forms.gle/usB89vY9sc5U6adG8
 db_url: //asoadb.alliedseabreeze35.org
+
+# The default "suggested image" for the site. Can
+# be overridden by page.og_image, but should be a link
+# local to the site or FB et al might not like it
+og_image: /assets/images/breezy.jpg
 
 gallery_src:
   s3: "https://asoa-files.s3.amazonaws.com/gallery-photos/"

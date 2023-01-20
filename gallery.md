@@ -1,6 +1,7 @@
 ---
 title: Photo Gallery
 menu: Gallery
+og_image: /assets/images/shenandoah.jpg
 interval: 4000          # carousel transition interval: seconds x 1000
 autostart: true
 ---

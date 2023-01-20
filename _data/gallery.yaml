@@ -6,34 +6,10 @@
 # style: "translucent" or "opaque" - changes title background for visibility
 # skip:  omit this photo
 -
-    img: s3://36-secret-water.jpeg
-    hull: 36
-    name: Secret Water
-    attr: Art Hall
-    skip: true
--
-    img: s3://36-secret-water2.jpeg
-    hull: 36
-    name: Secret Water
-    attr: Art Hall
-    skip: true
--
-    img: s3://36-secret-water3.jpeg
-    hull: 36
-    name: Secret Water
-    attr: Art Hall
-    skip: true
--
     img: s3://36-secret-water4.jpeg
     hull: 36
     name: Secret Water
     attr: Art Hall
--
-    img: s3://36-secret-water5.jpeg
-    hull: 36
-    name: Secret Water
-    attr: Art Hall
-    skip: true
 -
     img: s3://39-breezy.jpeg
     hull: 39
@@ -49,7 +25,13 @@
     img: s3://64-sarah.jpeg
     hull: 64
     name: Sarah
+    attr: Frank Pecor
+-
+    img: s3://64-sarah3.jpeg
+    hull: 64
+    name: Sarah
     attr: Art Hall
+    skip: true
 -
     img: s3://47-whim.jpeg
     hull: 47

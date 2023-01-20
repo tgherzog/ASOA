@@ -155,3 +155,9 @@
     hull: 129
     name: Journey
     attr: Paula Jackson
+-
+    img: s3://122-sally-forth.jpeg
+    hull: 122
+    name: Sally Forth
+    attr: Michael McNeal
+    style: opaque

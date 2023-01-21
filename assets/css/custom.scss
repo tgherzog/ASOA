@@ -164,8 +164,12 @@ p.attn {
 }
 
 
-@media (min-width: $br_sm) and (min-height: 390px) {
-/* the height minimum for this one matches the iPhone 12 Pro and 13 */
+@media (min-width: $br_sm) and (min-height: 410px), (device-width: 390px) and (orientation: landscape) {
+/* device-width should match iPhone 12 Pro/13. See
+   https://stackoverflow.com/questions/75177881/media-queries-with-min-height-on-ios-safari
+   NB: iOS safari holds device-width/height constant when orientation changes. The Chrome debugger does not.
+   TODO: this also targets iOS Chrome, which unfortunately has a smaller effective height, so the carousel is too tall. How to target iOS Safari but not Chrome?
+*/
   #carousel {
     width: 513px;
     height: 385px;

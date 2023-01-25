@@ -119,6 +119,7 @@ menu: Library
 * [Sell Your Wife Ad]({{site.docs}}/Ad Feb 69.pdf)
 * [Yachting Magazine Ad]({{site.docs}}/Ad Yachting 1971.pdf)
 * [Sailing Way of Life Ad]({{site.docs}}/Ad Sailing Way of Life.jpg)
+* [Seabreeze Citaton "Draw Your Own Conclusions" Ad]({{site.docs}}/seabreeze-citation-advert.jpg)
 
 ### Useful Links & Sources ### {#links}
 

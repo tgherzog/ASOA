@@ -99,7 +99,8 @@ menu: Library
 ### Sails & Flags ### {#sails-flags}
 
 * [Sail Data]({{site.docs}}/Sail Data %282%29.pdf)
-* [Allied Insignia]({{site.docs}}/Allied Insignia.pdf)
+* [Allied Insignia (scanned)]({{site.docs}}/Allied Insignia.pdf) (scanned)
+* [Allied Insignia (vector)]({{site.docs}}/allied-insignia-model.pdf): useful for printing. Credit: Patrick McDonald
 * [Allied Owner's Burgee]({{site.docs}}/Allied Burgee.pdf)
 
 ### Old Brochures, Price Lists & Bills of Sale ### {#brochures}

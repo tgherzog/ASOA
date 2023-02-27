@@ -9,7 +9,7 @@ menu: Library
 
 * [Articles](#articles)
 * [Line Drawings](#line-drawings)
-* [Sales & Flags](#sails-flags)
+* [Sails, Flags and Artwork](#sails-flags)
 * [Old Brochures, Price Lists & Bills of Sale](#brochures)
 * [Magazine Ads](#magazine-ads)
 * [Useful Links & Sources](#sources)
@@ -96,12 +96,13 @@ menu: Library
 * [Molding and Construction Details Alt 3]({{site.docs}}/212%2D4 Alt 3 Construction Details.pdf)
 * [Table of Offsets]({{site.docs}}/212%2D2 Table of Offsets.pdf)
 
-### Sails & Flags ### {#sails-flags}
+### Sails, Flags & Artwork ### {#sails-flags}
 
 * [Sail Data]({{site.docs}}/Sail Data %282%29.pdf)
 * [Allied Insignia (scanned)]({{site.docs}}/Allied Insignia.pdf)
 * [Allied Insignia (vector)]({{site.docs}}/allied-insignia-model.pdf): useful for printing. Credit: Patrick McDonald
 * [Allied Owner's Burgee]({{site.docs}}/Allied Burgee.pdf)
+* [Cove Stripe Ornaments](articles/cove-stripe.html)
 
 ### Old Brochures, Price Lists & Bills of Sale ### {#brochures}
 

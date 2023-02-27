@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
 
-    $('.container img[src^="assets/images/"]').each(function() {
+    $('.container img[src^="assets/images/"], .container img.imgwrap').each(function() {
         // give images a wrapper to facilitate captions and formatting
         $(this).wrap($('<div/>').addClass('image-wrapper'));
         var wrapper = $(this).parent();

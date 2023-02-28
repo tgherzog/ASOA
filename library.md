@@ -65,9 +65,9 @@ menu: Library
 
 #### Rigging, Chain Plates & Spars ####
 
-* [Some Thoughts on Rigging and Re-Rigging]({{site.docs}}/Some Thoughts on Rigging and Re%2DRigging.pdf) (Roy Harvey)
-* [Chain Plates]({{site.docs}}/Chainplates.pdf) (Art Hall)
-* [Chainplate Corrosion]({{site.docs}}/Chainplate Corrosion.pdf)
+* [Some Thoughts on Rigging and Re-Rigging](articles/thoughts-on-rigging.html) (Roy Harvey)
+* [Chain Plates](articles/chainplates.html) (Art Hall)
+* [Chainplate Corrosion](articles/chainplate-corrosion.html) (unattributed)
 * [Mast History]({{site.docs}}/Mast History.pdf)
 
 

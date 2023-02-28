@@ -30,12 +30,17 @@ footer {
 }
 
 h1, h2, h3 {
-  margin-top: 2em;
+  
   color: rgb(64, 128, 128);
 }
 
 h1 {
+  margin-top: 2em;
   text-align: center;
+}
+
+h2, h3 {
+  margin-top: 1em;
 }
 
 p.attn {
@@ -50,8 +55,21 @@ p.attn {
 .container {
   .byline {
     margin-left: 1.5em;
+    margin-bottom: 1rem;
     color: $alt_color;
+    line-height: 1.1em;
+
+    p {
+      margin: 0;
+    }
+
+    p.ocr {
+      font-size: 0.9em;
+      font-style: italic;
+    }
   }
+
+  blockquote { margin: 0 3em 1rem; }
 
   .section {
     margin-left: 2em;

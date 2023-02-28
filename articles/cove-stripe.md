@@ -1,13 +1,8 @@
 ---
-title: Seabreeze Cove Stripe Decals
-menu: Library
+title: Cove Stripe Ornaments
+cite: "Tim Herzog, #62 *Miss Daisy*"
+author: Tim Herzog
 ---
-
-
-# Cove Stripe Ornaments #
-
-Tim Herzog, #62 *Miss Daisy*
-{: .byline :}
 
 In 2021 I developed high-resolution versions of the Seabreeze
 "arrow" and "fin" on the bow and stern ends of the cove stripe. These can be easily

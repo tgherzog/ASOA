@@ -41,3 +41,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: "articles"
+    values:
+      layout: "article"
+      menu: "Library"
+      cite: "Unattributed"

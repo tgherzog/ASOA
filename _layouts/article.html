@@ -1,0 +1,17 @@
+---
+layout: "default"
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="byline">
+{{ page.cite | markdownify }}
+{%- if page.postdate -%}
+<p class="postdate">Originally posted: {{ page.postdate }}</p>
+{%- endif -%}
+{%- if page.original -%}
+<p class="ocr">Converted via OCR from the <a href="{{site.docs}}/{{page.original}}">original PDF</a></p>
+{%- endif -%}
+</div>
+
+{{ content }}

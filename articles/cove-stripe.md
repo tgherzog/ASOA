@@ -28,6 +28,8 @@ option) or they won't be the right size.
 [BoatUS Lettering](https://www.boatus.com/products-and-services/boat-lettering)
 already has the artwork in their system as order #224503. You can order
 these as decals for a very reasonable price and apply them as you would lettering.
+You'll need at least two sets (one for each side) and it doesn't hurt to have
+extra copies for backup, practice or touchup down the road.
 The BoatUS color palette
 is very close to the "Awlgrip" paint catalog used by major paint manufacturers, which
 means you can usually order decals to match a painted cove or boot stripe.

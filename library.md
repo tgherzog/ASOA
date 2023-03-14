@@ -99,8 +99,10 @@ menu: Library
 ### Sails, Flags & Artwork ### {#sails-flags}
 
 * [Sail Data]({{site.docs}}/Sail Data %282%29.pdf)
-* [Allied Insignia (scanned)]({{site.docs}}/Allied Insignia.pdf)
-* [Allied Insignia (vector)]({{site.docs}}/allied-insignia-model.pdf): useful for printing. Credit: Patrick McDonald
+* Allied Insignia
+  * [Original design]({{site.docs}}/Allied Insignia.pdf)
+  * [Vector art]({{site.docs}}/allied-insignia-model.pdf): useful for printing. Credit: Patrick McDonald
+  * [Color version]({{site.docs}}/allied-insignia-model-mock3.pdf): for clothing and hats. Credit: Patrick McDonald
 * [Allied Owner's Burgee]({{site.docs}}/Allied Burgee.pdf)
 * [Cove Stripe Ornaments](articles/cove-stripe.html)
 

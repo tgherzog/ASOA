@@ -27,6 +27,7 @@ exclude:
 - Makefile
 - LICENSE
 - CNAME
+- build.sh
 
 menu:
 - ["Home", "/"]

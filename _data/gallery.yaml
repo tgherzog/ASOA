@@ -33,17 +33,30 @@
     attr: Art Hall
     skip: true
 -
-    img: s3://47-whim.jpeg
-    hull: 47
+    img: s3://49-whim.jpeg
+    hull: 49
     name: Whim
     attr: Austin Taylor
     skip: true
 -
-    img: s3://47-whim2.jpeg
-    hull: 47
+    img: s3://49-whim3.jpeg
+    hull: 49
+    name: Whim
+    attr: Austin Taylor
+    skip: true
+-
+    img: s3://49-whim4.jpeg
+    hull: 49
+    name: Whim
+    attr: Austin Taylor
+    skip: false
+-
+    img: s3://49-whim2.jpeg
+    hull: 49
     name: Whim
     attr: Austin Taylor
     style: translucent
+    skip: true
 -
     img: s3://51-dagny.jpeg
     hull: 51

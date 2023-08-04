@@ -156,3 +156,9 @@
     name: Sally Forth
     attr: Michael McNeal
     style: opaque
+-
+    img: s3://69-pellagic.jpeg
+    hull: 69
+    name: Pellagic
+    attr: Vincent Tieniber
+    style: opaque

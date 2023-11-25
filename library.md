@@ -129,7 +129,10 @@ menu: Library
 
 * [Spartan Marine](https://www.spartanmarine.com/): excellent source for bronze hardware
 * [Buck Algonquin](https://www.deepblueyachtsupply.com/buck-algonquin): marine hardware including bronze
-* [McMaster-Carr](https://www.mcmaster.com/monel-wire-rope/): source for Monel centerboard cable
+* [McMaster-Carr](https://www.mcmaster.com/monel-wire-rope/): source for Monel centerboard cable. Also carries
+  an extensive catalog of bronze and stainless steel fasteners
+* [Fair Wind Fasteners](https://fairwindfasteners.com/): a bit more expensive, but carries some odder sized
+  fasteners that are difficult to source
 * [Grainger](https://www.grainger.com/product/GRAINGER-APPROVED-Buna-N-Square-Cord-Std-38G852?s_pp=false&picUrl=%2F%2Fstatic.grainger.com%2Frp%2Fs%2Fis%2Fimage%2FGrainger%2F38G832_AS01%3F%24smthumb%24wire-rope%2F%3Dwupr9n&isShellOptimized=true): source for 5/16" square Buna N Porthole gasket
 * [Lackey Sailing](https://lackeysailing.com/archived/ashantee/ashantee.html): Seabreeze restoration
 

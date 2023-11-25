@@ -125,7 +125,7 @@ menu: Library
 * [Sailing Way of Life Ad]({{site.docs}}/Ad Sailing Way of Life.jpg)
 * ["Draw Your Own Conclusions" Ad (Citation, Yachting 1970)]({{site.docs}}/seabreeze-citation-advert.jpg)
 
-### Useful Links & Sources ### {#links}
+### Useful Links & Sources ### {#sources}
 
 * [Spartan Marine](https://www.spartanmarine.com/): excellent source for bronze hardware
 * [Buck Algonquin](https://www.deepblueyachtsupply.com/buck-algonquin): marine hardware including bronze

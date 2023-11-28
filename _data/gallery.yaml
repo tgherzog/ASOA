@@ -16,6 +16,12 @@
     name: Breezy
     attr: Debbie Cycotte
 -
+    img: s3://62-missdaisy.jpg
+    hull: 62
+    name: Miss Daisy
+    attr: Tim Herzog
+    style: translucent
+-
     img: s3://46-perelandra2.jpeg
     hull: 46
     name: Perelandra
